@@ -21,7 +21,7 @@
 
 ### Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?
 
-	Projenin yapımında **JAVA Swing kütüphanesi** kullanılmıştır.
+Projenin yapımında **JAVA Swing kütüphanesi** kullanılmıştır.
 	
 ### Projeyi Geliştirenler:
 
