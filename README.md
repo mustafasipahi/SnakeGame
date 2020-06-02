@@ -19,8 +19,8 @@ isterseniz de yine İDE niz üzerinden çalışabilir `.jar` dosyasına dönüş
 
 ### Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?
 
-Projenin yapımında **JAVA Swing kütüphanesi** kullanılmıştır.
+Projenin yapımında **JAVA Swing Kütüphanesi** kullanılmıştır.
 	
 ### Projeyi Geliştirenler:
 
-* Mustafa Sabit SİPAHİ *
+*Mustafa Sabit SİPAHİ*
