@@ -1,6 +1,6 @@
 # Snake Game
 
-### Projeni Özeti
+### Projenin Özeti
 
 Bu proje JAVA Programlama Dili ile başlangıç seviyesinde yazılmış bir uzay oyunudur.
 Tek kullanıcı tarafından oynanmaktadır.
