@@ -19,10 +19,10 @@
 	 İDE nize indirmiş olduğunuz kaynak kodları ister İDE üzerinden `run` yaparak,
   isterseniz de yine İDE niz üzerinden çalışabilir `.jar` dosyasına dönüştürüp kullanabilirsiniz.
 
-### Proje geliştirilirken hangi teknolojilerden yararlanıldığı.
+### Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?
 
 	Projenin yapımında **JAVA Swing kütüphanesi** kullanılmıştır.
 	
-### Projeyi geliştirenler.
+### Projeyi Geliştirenler:
 
 	* Mustafa Sabit SİPAHİ *
